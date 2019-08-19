@@ -8,7 +8,8 @@ In the code section you'll have readme files that serve as scripts and then you'
 
 Make this into the Cartoon Guide to Creative Genius
 
-# Idea 2
+# Idea 2  
+8/16/19
 
 Make this into an interactive scrollable website that evolves, using the same art as Idea 1. 
 
@@ -21,3 +22,17 @@ There are two elements to this:
 2. Interactivity would... lost this train of thought. What else does interactivity help with? 
 3. Does it help with communication at all? 
 4. How would interactivity distract or harm the overall concept?
+
+**Further Thoughts** - 8/19/19 -
+Break it Down. What is communication. What are you doing?
+
+I am transfering information from my brain to theirs. 
+
+Research Where does this breakdown? Other people don't have a perfect representation/copy of my brain so failure of transfer of knowledge is a concept worth researching.
+
+**Idea** - so take this sentence from Super Memo Guru "The main thing that makes a genius brain stand out is its ability to store quality knowledge in a way that is easy to remember and easy to use." This doesn't 100% transfer into my head. Where does it break down? Well I don't know 
+1. What quality knowledge is?
+2. How does one make it easy to remember?
+3. What does "easy to use" mean?
+
+One way is he is setting up a paragraph and this is just the introduction. He then goes on to explain all those concepts. But that didn't transfer into my head they way I'm sure he would have liked. So **the idea for the website is** is to have those be pop up hyperlinks. When they hover on the link it will pop up just like wikiand does. If they click the link it will open it in new page. Do this a lot on your website. 
