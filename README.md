@@ -36,3 +36,16 @@ Research Where does this breakdown? Other people don't have a perfect representa
 3. What does "easy to use" mean?
 
 One way is he is setting up a paragraph and this is just the introduction. He then goes on to explain all those concepts. But that didn't transfer into my head they way I'm sure he would have liked. So **the idea for the website is** is to have those be pop up hyperlinks. When they hover on the link it will pop up just like wikiand does. If they click the link it will open it in new page. Do this a lot on your website. 
+
+# Idea 3
+8/23/19
+
+What would the creative genius guide look like if you only used images and no written words
+
+Do a sample page or two
+
+Can you do both?
+1. Wiki
+2. Comic - Gonick Style- words and images
+3. Comic - no words, just everything expressed in images
+4. abstract somehow even further?
