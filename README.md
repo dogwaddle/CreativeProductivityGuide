@@ -49,3 +49,14 @@ Can you do both?
 2. Comic - Gonick Style- words and images
 3. Comic - no words, just everything expressed in images
 4. abstract somehow even further?
+
+# Idea 4
+10/1/19
+
+What if I made the creative genius guide into a question and answer tree structure?
+
+ex. Do you exercise regularly?
+* Yes - Do you lift weights and cardio?
+  * Yes - Next
+  * No - Benefits of each of those
+* No - Provide Link to Exersie Model that lays out the Rules, concepts and science behind them
