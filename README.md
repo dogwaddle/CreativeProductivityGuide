@@ -60,3 +60,8 @@ ex. Do you exercise regularly?
   * Yes - Next
   * No - Benefits of each of those
 * No - Provide Link to Exersie Model that lays out the Rules, concepts and science behind them
+
+# Idea 5
+10/3/19
+
+Organized it in a Strategy vs Tactics format. Each section would involve a set of strategys for improvement, then within each section would be a set of tactics for achieving said. [Startegy vs Tactics Diffen](https://www.diffen.com/difference/Strategy_vs_Tactic)
