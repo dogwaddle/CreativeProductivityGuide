@@ -61,6 +61,8 @@ ex. Do you exercise regularly?
   * No - Benefits of each of those
 * No - Provide Link to Exersie Model that lays out the Rules, concepts and science behind them
 
+[Build your Own Adventure](https://github.com/udacity/create-your-own-adventure) - GitHub
+
 # Idea 5
 10/3/19
 
