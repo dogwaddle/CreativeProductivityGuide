@@ -1,18 +1,20 @@
 # Note to Visitors
 
-This project has been moved to offline development, with the wiki being developed in a personal note repository. I do plan on putting it either on its own page or into the wiki once I finish. - May 2020
+This project has been moved to offline development, with the wiki being developed in a personal note repository. I do plan on putting it either on its own page using Neuron Zettelkasten or into this wiki once I finish. - May 2020
 
-# All the information is Stored in the Wiki
+***
+
+## All the information is Stored in the Wiki
 
 The _**wiki**_ is where you are going to house all the information you need as you come across it and organize it. Then in the _**code sections**_, that is where you'll **distill** all the **information** and **create** a **comic book** out of it. 
 
 In the code section you'll have readme files that serve as scripts and then you'll upload drawings of the actual comic pages as you complete them.
 
-# Idea 1
+### Idea 1
 
 Make this into the Cartoon Guide to Creative Genius
 
-# Idea 2  
+### Idea 2  
 8/16/19
 
 Make this into an interactive scrollable website that evolves, using the same art as Idea 1. 
@@ -41,7 +43,7 @@ Research Where does this breakdown? Other people don't have a perfect representa
 
 One way is he is setting up a paragraph and this is just the introduction. He then goes on to explain all those concepts. But that didn't transfer into my head they way I'm sure he would have liked. So **the idea for the website is** is to have those be pop up hyperlinks. When they hover on the link it will pop up just like wikiand does. If they click the link it will open it in new page. Do this a lot on your website. 
 
-# Idea 3
+### Idea 3
 8/23/19
 
 What would the creative genius guide look like if you only used images and no written words
@@ -54,7 +56,7 @@ Can you do both?
 3. Comic - no words, just everything expressed in images
 4. abstract somehow even further?
 
-# Idea 4
+### Idea 4
 10/1/19
 
 What if I made the creative genius guide into a question and answer tree structure?
@@ -67,7 +69,7 @@ ex. Do you exercise regularly?
 
 [Build your Own Adventure](https://github.com/udacity/create-your-own-adventure) - GitHub
 
-# Idea 5
+### Idea 5
 10/3/19
 
 Organized it in a Strategy vs Tactics format. Each section would involve a set of strategys for improvement, then within each section would be a set of tactics for achieving said. [Startegy vs Tactics Diffen](https://www.diffen.com/difference/Strategy_vs_Tactic)
