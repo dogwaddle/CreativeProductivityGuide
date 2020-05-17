@@ -1,3 +1,7 @@
+# Note to Visitors
+
+This project has been moved to offline development, with the wiki being developed in a personal note repository. I do plan on putting it either on its own page or into the wiki once I finish. - May 2020
+
 # All the information is Stored in the Wiki
 
 The _**wiki**_ is where you are going to house all the information you need as you come across it and organize it. Then in the _**code sections**_, that is where you'll **distill** all the **information** and **create** a **comic book** out of it. 
